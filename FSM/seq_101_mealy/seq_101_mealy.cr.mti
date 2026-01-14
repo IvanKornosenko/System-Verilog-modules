@@ -1,0 +1,15 @@
+{C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy.sv} {1 {vlog -work work -sv {C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module seq_101_mealy
+
+Top level modules:
+	seq_101_mealy
+
+} {} {}} {C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy_tb.sv} {1 {vlog -work work -sv {C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module seq_101_mealy_tb
+
+Top level modules:
+	seq_101_mealy_tb
+
+} {} {}}

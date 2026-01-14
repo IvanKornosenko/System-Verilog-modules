@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore
+vseq_101_mealy
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 E0ga@eHBRFSUZALAHe0^k3
+Z3 IMgZ6kd^eOmzd9@L9FbbI50
+Z4 V=@;==N;ANH]@:keA?^>bA0
+Z5 !s105 seq_101_mealy_sv_unit
+S1
+Z6 dC:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_mealy
+Z7 w1765955238
+Z8 8C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy.sv
+Z9 FC:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy.sv
+L0 5
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s90 -reportprogress|300|-work|work|-sv|C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy.sv|
+Z12 o-work work -sv -O0
+!i10b 1
+!s85 0
+Z13 !s108 1765965467.840000
+Z14 !s107 C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy.sv|
+!s101 -O0
+vseq_101_mealy_tb
+R1
+!i10b 1
+!s100 Ad=@35lmOI9S2MPAz`;RQ1
+Ia1PHHFDfYb>JbfZgi8?Og2
+Vdc>[33efGRicH];ZLkkk=3
+!s105 seq_101_mealy_tb_sv_unit
+S1
+R6
+w1765965464
+8C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy_tb.sv
+FC:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy_tb.sv
+L0 2
+R10
+r1
+!s85 0
+31
+!s108 1765965467.887000
+!s107 C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_mealy/seq_101_mealy_tb.sv|
+!s101 -O0
+R12

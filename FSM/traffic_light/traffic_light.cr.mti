@@ -1,0 +1,15 @@
+{C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light_tb.sv} {1 {vlog -work work -sv {C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module traffic_light_tb
+
+Top level modules:
+	traffic_light_tb
+
+} {} {}} {C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light.sv} {1 {vlog -work work -sv {C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module traffic_light
+
+Top level modules:
+	traffic_light
+
+} {} {}}

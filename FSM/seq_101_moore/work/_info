@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vseq_101_moore
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 S]99Gf9iXzm7ba5^X8hD91
+Z3 IJYki3LV<]jZVo0GU7iGdf2
+Z4 VX9f[DVOI:JckB9SoZ]XdO2
+Z5 !s105 seq_101_moore_sv_unit
+S1
+Z6 dC:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore
+Z7 w1765447233
+Z8 8C:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore\seq_101_moore.sv
+Z9 FC:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore\seq_101_moore.sv
+L0 5
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s90 -reportprogress|300|-work|work|-sv|C:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore\seq_101_moore.sv|
+Z12 o-work work -sv -O0
+!i10b 1
+!s85 0
+Z13 !s108 1765447590.399000
+Z14 !s107 C:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore\seq_101_moore.sv|
+!s101 -O0
+vseq_101_moore_tb
+R1
+!i10b 1
+!s100 ]=66NZCIjjSoAU4iNM6cD1
+IGMn6[>BULMMS9IM6V^f8e3
+Vi>]deF[RiU?>9lKeODSe>0
+!s105 seq_101_moore_tb_sv_unit
+S1
+R6
+w1765447586
+8C:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore\seq_101_moore_tb.sv
+FC:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore\seq_101_moore_tb.sv
+L0 2
+R10
+r1
+!s85 0
+31
+!s108 1765447590.450000
+!s107 C:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore\seq_101_moore_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|C:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore\seq_101_moore_tb.sv|
+!s101 -O0
+R12

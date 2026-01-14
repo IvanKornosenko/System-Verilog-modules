@@ -1,0 +1,42 @@
+`timescale 1ns/1ps
+module seq_101_mealy_tb;
+    logic clk;
+    logic rst;
+    logic d_in;
+    logic d_out;
+
+    seq_101_mealy dut (
+        .clk(clk),
+        .rst(rst),
+        .d_in(d_in),
+        .d_out(d_out)
+    );
+//Формируем тактовый сигнал
+    initial 
+    begin
+        clk = 0
+        forever #5 clk = ~clk;
+    end
+
+  
+    initial 
+    begin
+        rst  = 1;
+        d_in = 0;
+
+        repeat (12) @(posedge clk); //Это форма записи, которая отличается от #12. В дальнейшем в tb лучше писать так, как написал ниже. Для автомата Мили это вообще база
+        rst = 0;
+
+        @(posedge clk) d_in <= 1;   //По сути эта запись сродни #10 d_in = 1
+        @(posedge clk) d_in <= 0;
+        @(posedge clk) d_in <= 1;
+        @(posedge clk) d_in <= 0;
+        @(posedge clk) d_in <= 1;
+        @(posedge clk) d_in <= 0;
+
+        repeat (2) @(posedge clk);
+        $stop;
+    end 
+endmodule
+
+

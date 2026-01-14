@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_mealy
+vtraffic_light
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 8e0>oUZ93ZhJfkGO9IDzD2
+Z3 IzP@zfOCN>2@IE3IGMjacV3
+Z4 VGNWKF3`4Tdmif=OC1=NeR2
+Z5 !s105 traffic_light_sv_unit
+S1
+Z6 dC:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\traffic_light
+Z7 w1766484122
+Z8 8C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light.sv
+Z9 FC:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light.sv
+L0 2
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s90 -reportprogress|300|-work|work|-sv|C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light.sv|
+Z12 o-work work -sv -O0
+!i10b 1
+!s85 0
+Z13 !s108 1766484765.993000
+Z14 !s107 C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light.sv|
+!s101 -O0
+vtraffic_light_tb
+R1
+!i10b 1
+!s100 czfd<78JFOZH1U379ImTO1
+IFzEK:^RVb[;;h=b^f?bRa0
+VN4X_9^ER9K^ggc_Mhiif80
+!s105 traffic_light_tb_sv_unit
+S1
+R6
+w1766484763
+8C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light_tb.sv
+FC:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light_tb.sv
+L0 3
+R10
+r1
+!s85 0
+31
+!s108 1766484766.041000
+!s107 C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/traffic_light/traffic_light_tb.sv|
+!s101 -O0
+R12

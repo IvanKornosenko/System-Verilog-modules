@@ -1,0 +1,15 @@
+{C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_moore/seq_101_moore.sv} {1 {vlog -work work -sv {C:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore\seq_101_moore.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module seq_101_moore
+
+Top level modules:
+	seq_101_moore
+
+} {} {}} {C:/Users/korno/Desktop/FPGA_Projects/System Verilog/FSM/seq_101_moore/seq_101_moore_tb.sv} {1 {vlog -work work -sv {C:\Users\korno\Desktop\FPGA_Projects\System Verilog\FSM\seq_101_moore\seq_101_moore_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module seq_101_moore_tb
+
+Top level modules:
+	seq_101_moore_tb
+
+} {} {}}
